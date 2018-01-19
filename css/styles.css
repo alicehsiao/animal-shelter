@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 300px;
+  text-align: center;
+  border: 1px solid blue;
+  background-color: orange;
+  padding: 5px;
+  margin: 10px;
+}
+
+.column p {
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  border-radius: 20px;
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 250px;
+}
